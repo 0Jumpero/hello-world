@@ -1,2 +1,4 @@
 # hello-world
-first rep
+first repository
+
+trying to learn new things
